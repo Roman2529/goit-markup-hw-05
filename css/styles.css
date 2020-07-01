@@ -405,7 +405,6 @@ main {
   align-items: center; 
   justify-content: center; 
 }
-
 .customers .customers-item:not(:last-child) {
   margin-right: 30px;
 }
@@ -426,8 +425,6 @@ main {
 .customers-link:hover .icon-logo,
 .customers-link:focus .icon-logo {
   fill: var(--accent-color)
-}
-
 }
 
 /*footer*/
